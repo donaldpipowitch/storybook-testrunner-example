@@ -1,0 +1,16 @@
+{
+  "recommendations": [
+    // prettier support
+    // see https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode
+    "esbenp.prettier-vscode",
+    // eslint support
+    // see https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint
+    "dbaeumer.vscode-eslint",
+    // syntax highlighting for css``
+    // see https://marketplace.visualstudio.com/items?itemName=styled-components.vscode-styled-components
+    "styled-components.vscode-styled-components",
+    // mdx support
+    // see https://marketplace.visualstudio.com/items?itemName=unifiedjs.vscode-mdx
+    "unifiedjs.vscode-mdx"
+  ]
+}

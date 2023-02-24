@@ -1,0 +1,7 @@
+node_modules/
+dist/
+storybook-build/
+*.log
+.DS_Store
+.pnpm-store
+bundle-analyzer.html
